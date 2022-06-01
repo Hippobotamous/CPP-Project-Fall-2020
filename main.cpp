@@ -1,8 +1,3 @@
-//Jake Landers
-//Maree Kelly
-//CS225
-//Personality Test
-
 #include <iostream>
 #include <string>
 #include <climits>
