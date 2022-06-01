@@ -88,7 +88,7 @@ Test::Test() { q[0].questionText="How old are you?";
 
            q[4].questionText="What is your favorite class?";
            q[4].answers[0]="A: CS225";
-           q[4].answers[1]="B: Prof. Marriotts class";
+           q[4].answers[1]="B: This Class";
            q[4].answers[2]="C: Both A and B";
            q[4].answers[3]="D: All of the above";
 
